@@ -1,5 +1,7 @@
 # Gaming PC Build & System Configuration Project
 
+![Completed Build](images/completed-build.jpg)
+
 ## Project Overview
 
 Designed and built a custom gaming PC for an 8-year-old end user with the dual purpose of delivering a reliable, age-appropriate gaming system and establishing a documented, hands-on IT project.
