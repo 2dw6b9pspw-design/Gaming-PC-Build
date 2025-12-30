@@ -66,4 +66,4 @@ gaming-pc-build-it-homelab/
 
 ## Final Build
 
-![Completed Build](images/completed-build.jpg)
+![Completed Build](images/completed-build.png)
