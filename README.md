@@ -1,4 +1,4 @@
-# Windows Endpoint OS Deployment and Baseline Hardening
+# workstation-build-os-deployment-and-hardening
 
 ![Completed Build](images/completed-build.png)
 
@@ -42,7 +42,7 @@ This project documents the complete lifecycle of a custom-built desktop system, 
 ## Repository Structure
 
 <pre>
-windows-endpoint-os-deployment-and-baseline-hardening
+workstation-build-os-deployment-and-hardening
 │
 ├── README.md
 ├── parts-list.md
